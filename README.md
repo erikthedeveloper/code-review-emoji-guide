@@ -22,6 +22,7 @@ Using CREG (Code Review Emoji Guide) puts more ownership on the reviewer to give
 |  ♻️  | `:recycle:`  | Suggestion for refactoring. <br /><br /> Should include enough context to be actionable and not be considered a nitpick. |
 |  🏕  | `:camping:`  | Here is an opportunity, not directly related to your changes, for us to leave the campground [code] cleaner than we found it.                                                       |
 | 📌  | `:pushpin:`  | This is a concern that is _out of scope_ and should be staged appropriately for follow up.                                                                                          |
+| 💡  | `:lightbulb:`  | Your code made me think of this new idea. No actions needed, I want to share this idea with you                                                                                          |
 
 ## Usage
 
